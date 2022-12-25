@@ -7,5 +7,11 @@ Python's advantage in AI is convenience. However, Python's performance is much l
 
 
 ### self-learning 
-Currently, from what is available online, python is actually still the dominant tool in ai model development.
+Currently, from what is available online, python is actually still the dominant tool in ai model development.    
 C++, on the other hand, is more often used for the model deployment part.
+
+
+### reference
+ZhiHu:  
+[why use C++](https://www.zhihu.com/question/373811828/answer/2772663023)
+[C++ Toolkit](https://www.zhihu.com/question/546235094/answer/2602323702)   
