@@ -14,4 +14,7 @@ C++, on the other hand, is more often used for the model deployment part.
 ### reference
 ***ZhiHu:***    
 [1. why use C++](https://www.zhihu.com/question/373811828/answer/2772663023).  
-[2. C++ Toolkit](https://www.zhihu.com/question/546235094/answer/2602323702)   
+[2. C++ ToolKit](https://www.zhihu.com/question/546235094/answer/2602323702).     
+
+***Github***:    
+[C++ ToolKit](https://github.com/DefTruth/lite.ai.toolkit).   
